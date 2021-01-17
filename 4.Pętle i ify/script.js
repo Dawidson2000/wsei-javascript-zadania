@@ -72,7 +72,7 @@ for(let i = 0; i <= 100; i++){
     }
 }
 
-//Zadanie 4.8 //Dokończ
+//Zadanie 4.8
 const a = () => {    
     for(let i=0; i<5; i++)
     {

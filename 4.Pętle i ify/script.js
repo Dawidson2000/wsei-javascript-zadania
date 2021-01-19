@@ -101,8 +101,6 @@ const b = () => {
     console.log(result.join('\n'));
 };
 
-b();
-
 const c = () => {
     const result = [];
     for (let i = 1; i <= 5; i++) {
